@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ebc488b8-333b-4233-a770-66061f0eab17" name="test" url="http://testanastasiak.students.bzz.ch">
+        <fileTransfer accessType="FTPS" host="testanastasiak.students.bzz.ch" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f7d42122-53a0-4735-b464-e99dae8a8d0d" name="M293" url="http://anastasiak.students.bzz.ch">
+        <fileTransfer accessType="FTPS" host="anastasiak.students.bzz.ch" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
